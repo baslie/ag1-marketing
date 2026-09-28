@@ -1,0 +1,6 @@
+rungel.md
+ag1.md
+*.md.bak
+Thumbs.db
+.DS_Store
+.playwright-mcp/
